@@ -10,7 +10,7 @@ With OpenRouter, I used the `deepseek-chat` model to power an assistant that can
 
 🔑 Make sure you have your `OPENROUTER_API_KEY` stored safely in a `.env` file.
 
-📂 Code is in: `openrouter_agent.py`
+📂 Code is in: `app.py`
 
 ---
 
@@ -20,7 +20,7 @@ I also experimented with **LiteLLM** to use Google's Gemini model through the sa
 
 🔑 Use your `GEMINI_API_KEY` in the `.env` file.
 
-📂 Code is in: `litellm_agent.py`
+📂 Code is in: `main.py`
 
 💡 Tip: Don't forget to install support with:
 ```bash
